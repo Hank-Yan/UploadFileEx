@@ -2,8 +2,14 @@
 title: UploadFileEx
 grammar_cjkRuby: true
 ---
+
+
 > This artical is very useful for those who want to upload files by `winform` program, and receive these files by `php webservice`. I found the artical [here][1] and share to you. Thank for the author.
+
+
 -------
+
+
 Main content
 ------
 > UploadFile hides some of the things you might need to get your Windows client simulating forms with file input fields. UploadFileEx gives you more control where you need it!
